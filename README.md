@@ -16,3 +16,7 @@ This project is a Human-Machine Interface (HMI) system designed for cars, enabli
 - 🧠 Intuitive and distraction-free QML-based user interface
 - ⚡️ Low-latency communication for responsive control
 - 🧪 Sensor integration and dynamic data rendering
+## 📝 Tác giả
+- **Họ tên:** Huỳnh Đặng Phương Âu  
+- **Vai trò:** Thiết kế – Lập trình – Tích hợp hệ thống  
+- **Sinh viên Công nghệ Kỹ thuật máy tính**
